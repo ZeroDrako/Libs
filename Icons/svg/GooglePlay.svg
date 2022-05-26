@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_2"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 215 215.9" enable-background="new 0 0 215 215.9" xml:space="preserve">
+    <linearGradient id="path1192_1_" gradientUnits="userSpaceOnUse" x1="3656.3149" y1="-323.068" x2="3549.6221" y2="-267.994" gradientTransform="matrix(1.3204 0 0 2.558 -4713.103 839.5598)">
+        <stop offset="0" style="stop-color:#00A0FF"/>
+        <stop offset="7.000001e-03" style="stop-color:#00A1FF"/>
+        <stop offset="0.26" style="stop-color:#00BEFF"/>
+        <stop offset="0.512" style="stop-color:#00D2FF"/>
+        <stop offset="0.76" style="stop-color:#00DFFF"/>
+        <stop offset="1" style="stop-color:#00E3FF"/>
+    </linearGradient>
+    <path id="path1192" fill-rule="evenodd" clip-rule="evenodd" fill="url(#path1192_1_)" d="M19.3,3.3c-2.4,2.6-3.8,6.6-3.8,11.8
+	v185.6c0,5.2,1.4,9.2,3.9,11.8l0.7,0.6l104-104v-2.3L19.9,2.8C19.9,2.8,19.3,3.3,19.3,3.3z"/>
+    <linearGradient id="path1203_1_" gradientUnits="userSpaceOnUse" x1="3983.4985" y1="380.6273" x2="3787.6987" y2="380.6273" gradientTransform="matrix(1.0374 0 0 0.8735 -3916.6599 -224.5062)">
+        <stop offset="0" style="stop-color:#FFE000"/>
+        <stop offset="0.409" style="stop-color:#FFBD00"/>
+        <stop offset="0.775" style="stop-color:#FFA500"/>
+        <stop offset="1" style="stop-color:#FF9C00"/>
+    </linearGradient>
+    <path id="path1203" fill-rule="evenodd" clip-rule="evenodd" fill="url(#path1203_1_)" d="M158.6,143.9l-34.7-34.7v-2.4L158.6,72
+	l0.7,0.5l41,23.3c11.8,6.6,11.8,17.5,0,24.3l-41,23.3C159.4,143.4,158.6,143.9,158.6,143.9L158.6,143.9z"/>
+    <linearGradient id="path1210_1_" gradientUnits="userSpaceOnUse" x1="3480.6152" y1="55.767" x2="3368.4883" y2="201.2311" gradientTransform="matrix(1.7038 0 0 1.3133 -5790.2178 53.9981)">
+        <stop offset="0" style="stop-color:#FF3A44"/>
+        <stop offset="1" style="stop-color:#C31162"/>
+    </linearGradient>
+    <path id="path1210" fill-rule="evenodd" clip-rule="evenodd" fill="url(#path1210_1_)" d="M159.4,143.4L123.9,108L19.3,212.6
+	c3.8,4.1,10.3,4.6,17.4,0.6L159.4,143.4"/>
+    <linearGradient id="path1223_1_" gradientUnits="userSpaceOnUse" x1="3394.2441" y1="-84.3217" x2="3444.312" y2="-19.3308" gradientTransform="matrix(1.7038 0 0 1.3126 -5790.2178 52.252)">
+        <stop offset="0" style="stop-color:#32A071"/>
+        <stop offset="6.900000e-02" style="stop-color:#2DA771"/>
+        <stop offset="0.476" style="stop-color:#15CF74"/>
+        <stop offset="0.801" style="stop-color:#06E775"/>
+        <stop offset="1" style="stop-color:#00F076"/>
+    </linearGradient>
+    <path id="path1223" fill-rule="evenodd" clip-rule="evenodd" fill="url(#path1223_1_)" d="M159.4,72.5L36.7,2.8
+	c-7.2-4.1-13.6-3.6-17.4,0.6L123.9,108L159.4,72.5z"/>
+</svg>
